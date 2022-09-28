@@ -1,9 +1,9 @@
 import { Component } from '@angular/core';
+import { AlertController } from '@ionic/angular';
 
 @Component({
-  selector: 'app-home',
-  templateUrl: 'home.page.html',
-  styleUrls: ['home.page.scss'],
+  selector: 'app-example',
+  templateUrl: 'example.component.html',
 })
 export class HomePage {
 
